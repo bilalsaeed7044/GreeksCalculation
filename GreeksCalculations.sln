@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreeksCalculations", "GreeksCalculations.csproj", "{6CB5D388-514B-4E35-B8F2-5616A3B12ECD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreeksCalculationsTests", "..\GreeksCalculationsTests\GreeksCalculationsTests.csproj", "{05597C8F-649D-4459-AE79-70C2AE7A0791}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CB5D388-514B-4E35-B8F2-5616A3B12ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CB5D388-514B-4E35-B8F2-5616A3B12ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CB5D388-514B-4E35-B8F2-5616A3B12ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CB5D388-514B-4E35-B8F2-5616A3B12ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05597C8F-649D-4459-AE79-70C2AE7A0791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05597C8F-649D-4459-AE79-70C2AE7A0791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05597C8F-649D-4459-AE79-70C2AE7A0791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05597C8F-649D-4459-AE79-70C2AE7A0791}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {228A989B-FC10-4717-A7BB-D21A81AD7B47}
+	EndGlobalSection
+EndGlobal
